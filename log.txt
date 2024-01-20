@@ -1,0 +1,7 @@
+4
+9
+9
+9
+9
+дек. 28, 2023 3:49:21 PM Sem1and2.Task2sem_5 writeArrToFile
+INFO: Data saved!
